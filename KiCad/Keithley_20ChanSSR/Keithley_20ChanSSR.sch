@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L CozKiCadLibrary:TLP3558 U2
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U2
 U 1 1 5CD0E8BB
 P 6550 3800
 F 0 "U2" H 6550 4125 50  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U11
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U11
 U 1 1 5CD919D7
 P 9750 3800
 F 0 "U11" H 9750 4125 50  0000 C CNN
@@ -37,7 +37,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U12
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U12
 U 1 1 5CD919E1
 P 10100 3800
 F 0 "U12" H 10100 4125 50  0000 C CNN
@@ -48,7 +48,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U13
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U13
 U 1 1 5CD919EB
 P 10450 3800
 F 0 "U13" H 10450 4125 50  0000 C CNN
@@ -59,7 +59,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U14
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U14
 U 1 1 5CD919F5
 P 10800 3800
 F 0 "U14" H 10800 4125 50  0000 C CNN
@@ -70,7 +70,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U15
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U15
 U 1 1 5CD919FF
 P 11150 3800
 F 0 "U15" H 11150 4125 50  0000 C CNN
@@ -81,7 +81,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U16
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U16
 U 1 1 5CD91A09
 P 11500 3800
 F 0 "U16" H 11500 4125 50  0000 C CNN
@@ -92,7 +92,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U17
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U17
 U 1 1 5CD91A13
 P 11850 3800
 F 0 "U17" H 11850 4125 50  0000 C CNN
@@ -103,7 +103,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U18
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U18
 U 1 1 5CD91A1D
 P 12200 3800
 F 0 "U18" H 12200 4125 50  0000 C CNN
@@ -114,7 +114,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U19
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U19
 U 1 1 5CD91A27
 P 12550 3800
 F 0 "U19" H 12550 4125 50  0000 C CNN
@@ -125,7 +125,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U20
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U20
 U 1 1 5D2A594A
 P 12900 3800
 F 0 "U20" H 12900 4125 50  0000 C CNN
@@ -147,7 +147,7 @@ F 3 "" H 6100 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U9
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U9
 U 1 1 5CF08C9D
 P 9000 3800
 F 0 "U9" H 9000 4125 50  0000 C CNN
@@ -158,7 +158,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U10
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U10
 U 1 1 5CD1F434
 P 9350 3800
 F 0 "U10" H 9350 4125 50  0000 C CNN
@@ -169,7 +169,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U7
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U7
 U 1 1 5CD1E31D
 P 8300 3800
 F 0 "U7" H 8300 4125 50  0000 C CNN
@@ -180,7 +180,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U8
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U8
 U 1 1 5CD1D556
 P 8650 3800
 F 0 "U8" H 8650 4125 50  0000 C CNN
@@ -191,7 +191,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U5
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U5
 U 1 1 5CD1C426
 P 7600 3800
 F 0 "U5" H 7600 4125 50  0000 C CNN
@@ -202,7 +202,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U6
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U6
 U 1 1 5CD1B8B7
 P 7950 3800
 F 0 "U6" H 7950 4125 50  0000 C CNN
@@ -213,7 +213,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U3
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U3
 U 1 1 5CD1B2F0
 P 6900 3800
 F 0 "U3" H 6900 4125 50  0000 C CNN
@@ -224,7 +224,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    1    -1   0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U4
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U4
 U 1 1 5CD1A77C
 P 7250 3800
 F 0 "U4" H 7250 4125 50  0000 C CNN
@@ -246,7 +246,7 @@ F 3 "~" H 8950 6850 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U26
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U26
 U 1 1 5D682CBB
 P 6200 5550
 F 0 "U26" H 6200 5875 50  0000 C CNN
@@ -257,7 +257,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U36
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U36
 U 1 1 5D682CC1
 P 9750 5550
 F 0 "U36" H 9750 5875 50  0000 C CNN
@@ -268,7 +268,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U37
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U37
 U 1 1 5D682CC7
 P 10100 5550
 F 0 "U37" H 10100 5875 50  0000 C CNN
@@ -279,7 +279,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U38
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U38
 U 1 1 5D682CCD
 P 10450 5550
 F 0 "U38" H 10450 5875 50  0000 C CNN
@@ -290,7 +290,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U39
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U39
 U 1 1 5D682CD3
 P 10800 5550
 F 0 "U39" H 10800 5875 50  0000 C CNN
@@ -301,7 +301,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U40
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U40
 U 1 1 5D682CD9
 P 11150 5550
 F 0 "U40" H 11150 5875 50  0000 C CNN
@@ -312,7 +312,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U41
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U41
 U 1 1 5D682CDF
 P 11500 5550
 F 0 "U41" H 11500 5875 50  0000 C CNN
@@ -323,7 +323,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U42
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U42
 U 1 1 5D682CE5
 P 11850 5550
 F 0 "U42" H 11850 5875 50  0000 C CNN
@@ -334,7 +334,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U43
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U43
 U 1 1 5D682CEB
 P 12200 5550
 F 0 "U43" H 12200 5875 50  0000 C CNN
@@ -345,7 +345,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U44
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U44
 U 1 1 5D682CF1
 P 12550 5550
 F 0 "U44" H 12550 5875 50  0000 C CNN
@@ -364,7 +364,7 @@ Wire Wire Line
 Wire Wire Line
 	11950 5250 12100 5250
 $Comp
-L CozKiCadLibrary:TLP3558 U45
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U45
 U 1 1 5D682D0A
 P 12900 5550
 F 0 "U45" H 12900 5875 50  0000 C CNN
@@ -497,7 +497,7 @@ $EndComp
 Wire Wire Line
 	6300 5250 6450 5250
 $Comp
-L CozKiCadLibrary:TLP3558 U35
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U35
 U 1 1 5D682D65
 P 9350 5550
 F 0 "U35" H 9350 5875 50  0000 C CNN
@@ -508,7 +508,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U34
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U34
 U 1 1 5D682D6B
 P 9000 5550
 F 0 "U34" H 9000 5875 50  0000 C CNN
@@ -519,7 +519,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U33
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U33
 U 1 1 5D682D71
 P 8650 5550
 F 0 "U33" H 8650 5875 50  0000 C CNN
@@ -530,7 +530,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U32
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U32
 U 1 1 5D682D77
 P 8300 5550
 F 0 "U32" H 8300 5875 50  0000 C CNN
@@ -541,7 +541,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U31
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U31
 U 1 1 5D682D7D
 P 7950 5550
 F 0 "U31" H 7950 5875 50  0000 C CNN
@@ -552,7 +552,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U30
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U30
 U 1 1 5D682D83
 P 7600 5550
 F 0 "U30" H 7600 5875 50  0000 C CNN
@@ -563,7 +563,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U29
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U29
 U 1 1 5D682D89
 P 7250 5550
 F 0 "U29" H 7250 5875 50  0000 C CNN
@@ -574,7 +574,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U28
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U28
 U 1 1 5D682D8F
 P 6900 5550
 F 0 "U28" H 6900 5875 50  0000 C CNN
@@ -585,7 +585,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U27
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U27
 U 1 1 5D682D95
 P 6550 5550
 F 0 "U27" H 6550 5875 50  0000 C CNN
@@ -632,7 +632,7 @@ Wire Wire Line
 Wire Wire Line
 	9250 6250 9250 6650
 $Comp
-L CozKiCadLibrary:TLP3558 U23
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U23
 U 1 1 5DCF3BF0
 P 13600 5350
 F 0 "U23" H 13600 5675 50  0000 C CNN
@@ -643,7 +643,7 @@ F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3
 	0    -1   1    0   
 $EndComp
 $Comp
-L CozKiCadLibrary:TLP3558 U24
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U24
 U 1 1 5DCF3BFA
 P 13950 5350
 F 0 "U24" H 13950 5675 50  0000 C CNN
@@ -673,7 +673,7 @@ INPUT_HI
 Wire Wire Line
 	6300 4100 6450 4100
 $Comp
-L CozKiCadLibrary:TLP3558 U1
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U1
 U 1 1 5CD19EF0
 P 6200 3800
 F 0 "U1" H 6200 4125 50  0000 C CNN
@@ -994,7 +994,7 @@ Wire Wire Line
 	13200 2700 13200 3400
 Connection ~ 13200 3400
 $Comp
-L CozKiCadLibrary:TLP3558 U22
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U22
 U 1 1 5DB9136F
 P 13950 4450
 F 0 "U22" H 13950 4775 50  0000 C CNN
@@ -1271,7 +1271,7 @@ Wire Wire Line
 	13700 5750 13200 5750
 Connection ~ 13200 5750
 $Comp
-L CozKiCadLibrary:TLP3558 U21
+L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U21
 U 1 1 5DB91365
 P 13600 4450
 F 0 "U21" H 13600 4775 50  0000 C CNN
@@ -1456,7 +1456,7 @@ DATA
 Text GLabel 2900 6050 0    50   Input ~ 0
 CLK
 $Comp
-L CozKiCadLibrary:Arduino_Micro U25
+L Keithley_20ChanSSR-rescue:Arduino_Micro-CozKiCadLibrary U25
 U 1 1 5D44B2E9
 P 3200 7150
 F 0 "U25" V 3928 6972 60  0000 R CNN

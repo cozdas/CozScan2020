@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Keithley_20ChanSSR-rescue)(type Legacy)(uri ${KIPRJMOD}/Keithley_20ChanSSR-rescue.lib)(options "")(descr ""))
+)
