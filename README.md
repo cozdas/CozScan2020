@@ -11,13 +11,11 @@ This is a do-it-yourself 20-channel solid-state scanner card compatible with Kei
 ## History behind the project
 I've always had a multimeter since highschool, where I studied electronics. But all of them were handheld devices. So recently I decided to get a bench multimeter and Keithley DMM6500 seemed like a perfect choice for my needs. I liked the scanner card support which makes the unit work as a small data acqusition system. I bought a used 2000-SCAN card from eBay and it worked perfectly, I was able to record multiple quantities over long time spans and analyse their dependencies (such as tempco measurement ). But there was one problem: the original SCAN-2000 card has mechanical relays and they are loud therefore logging multiple channels overnight in my office, which is near our bedroom, was an annoying dripping-tap simulator. So I decided to build myself a silent solid-state version.
 
-<SCHEMATIC PIC>
+![](Documents/KeithleySchematic.png)
 
-The original Keithley SCAN-2000 card has a very basic design: few serial-to-parallel shift registers and bunch of bi-stable (latching) mechanical relays. The control signal from the DMM has 3 lines: clock, data and strobe. The card's manual has the full schematic, by looking at the schematic you can determine which bit does what. After realizing that the 20-channel scan-2020 card uses the same interface and the same basic circuit design, I decided to implement a 20 channel card, the more the merrier. The DMM determines the installed card type using the ID pins (13 and 29) on the connector. 
+The original Keithley SCAN-2000 card has a very basic design: few serial-to-parallel shift registers and bunch of bi-stable (latching) mechanical relays. The control signal from the DMM has 3 lines: clock, data and strobe. The card's manual has the full schematic; by looking at the schematic you can determine which bit does what. After realizing that the 20-channel scan-2020 card uses the same interface and the same basic circuit design, I decided to implement a 20 channel card, the more the merrier. The DMM determines the installed card type using the ID pins (13 and 29) on the connector. 
 
 ## Reverse Engineering the Communication
-
-![](Documents/KeithleySchematic.png)
 
 The schematic shows all the connections and logic but doesn't tell much about the timings and how the DMM drives the relays. For that reason I just sniffed the clock, data and strobe lines both in scan-2000 and scan-2020 mode using both my oscillascope and a cheap logic analyser. You can find the [logic analyser logs](Documents/LogicAnalyserLogs/) in the Documents folder. You can open the files with [Saleae Logic software](https://www.saleae.com/downloads/)
 
