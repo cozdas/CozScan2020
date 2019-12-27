@@ -55,8 +55,14 @@ My first attemp was an interrupt-driven software but it was behaving erratically
 The Arduino studio source is located in the [Arduino](Arduino/) folder.
 
 ## Bill of Materials
-- DMM Connector: [Molex 85050](https://www.digikey.com/product-detail/en/molex/0850500000/WM20488-ND/2790645)
-- Solid State Relay: [Toshiba TLP3558A](https://www.digikey.com/product-detail/en/toshiba-semiconductor-and-storage/TLP3558A-F/TLP3558A-F-ND/8539925)
+- DMM Connector: 1x [Molex 85050](https://www.digikey.com/product-detail/en/molex/0850500000/WM20488-ND/2790645)
+- Solid State Relay: 24x [Toshiba TLP3558A](https://www.digikey.com/product-detail/en/toshiba-semiconductor-and-storage/TLP3558A-F/TLP3558A-F-ND/8539925)
 - Cable Terminal Blocks: 
-  - 12 Pos: [Phoenix Contact 1869318](https://www.digikey.com/product-detail/en/phoenix-contact/1869318/277-6361-ND/349230)
-  - 10 Pos: [Phoenix Contact 1869295](https://www.digikey.com/product-detail/en/phoenix-contact/1869295/277-6063-ND/349229)
+  - 12 Pos: 2x [Phoenix Contact 1869318](https://www.digikey.com/product-detail/en/phoenix-contact/1869318/277-6361-ND/349230)
+  - 10 Pos: 2x [Phoenix Contact 1869295](https://www.digikey.com/product-detail/en/phoenix-contact/1869295/277-6063-ND/349229)
+- Controller: 1x [Arduino Micro](https://store.arduino.cc/usa/arduino-micro) (or [a clone](https://www.amazon.com/dp/B00J1X5B7Y))
+- Resistors
+  - 22x 120 Ohm 1/4W
+  - 3x 1 kOhm 1/4W
+- Capacitor: 1uF 16V
+- PCB: 205mm x 70mm x 1.5mm, dual-sided
