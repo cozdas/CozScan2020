@@ -18,8 +18,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U2
 U 1 1 5CD0E8BB
 P 6550 3800
-F 0 "U2" H 6550 4125 50  0000 C CNN
-F 1 "TLP3558" H 6550 4034 50  0000 C CNN
+F 0 "U2" H 6550 4125 50  0001 C CNN
+F 1 "TLP3558" H 6550 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 6550 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 6550 3800 50  0001 C CNN
 	1    6550 3800
@@ -29,8 +29,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U11
 U 1 1 5CD919D7
 P 9750 3800
-F 0 "U11" H 9750 4125 50  0000 C CNN
-F 1 "TLP3558" H 9750 4034 50  0000 C CNN
+F 0 "U11" H 9750 4125 50  0001 C CNN
+F 1 "TLP3558" H 9750 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 9750 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 9750 3800 50  0001 C CNN
 	1    9750 3800
@@ -40,8 +40,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U12
 U 1 1 5CD919E1
 P 10100 3800
-F 0 "U12" H 10100 4125 50  0000 C CNN
-F 1 "TLP3558" H 10100 4034 50  0000 C CNN
+F 0 "U12" H 10100 4125 50  0001 C CNN
+F 1 "TLP3558" H 10100 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 10100 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 10100 3800 50  0001 C CNN
 	1    10100 3800
@@ -51,8 +51,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U13
 U 1 1 5CD919EB
 P 10450 3800
-F 0 "U13" H 10450 4125 50  0000 C CNN
-F 1 "TLP3558" H 10450 4034 50  0000 C CNN
+F 0 "U13" H 10450 4125 50  0001 C CNN
+F 1 "TLP3558" H 10450 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 10450 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 10450 3800 50  0001 C CNN
 	1    10450 3800
@@ -62,8 +62,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U14
 U 1 1 5CD919F5
 P 10800 3800
-F 0 "U14" H 10800 4125 50  0000 C CNN
-F 1 "TLP3558" H 10800 4034 50  0000 C CNN
+F 0 "U14" H 10800 4125 50  0001 C CNN
+F 1 "TLP3558" H 10800 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 10800 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 10800 3800 50  0001 C CNN
 	1    10800 3800
@@ -73,8 +73,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U15
 U 1 1 5CD919FF
 P 11150 3800
-F 0 "U15" H 11150 4125 50  0000 C CNN
-F 1 "TLP3558" H 11150 4034 50  0000 C CNN
+F 0 "U15" H 11150 4125 50  0001 C CNN
+F 1 "TLP3558" H 11150 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 11150 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 11150 3800 50  0001 C CNN
 	1    11150 3800
@@ -84,8 +84,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U16
 U 1 1 5CD91A09
 P 11500 3800
-F 0 "U16" H 11500 4125 50  0000 C CNN
-F 1 "TLP3558" H 11500 4034 50  0000 C CNN
+F 0 "U16" H 11500 4125 50  0001 C CNN
+F 1 "TLP3558" H 11500 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 11500 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 11500 3800 50  0001 C CNN
 	1    11500 3800
@@ -95,8 +95,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U17
 U 1 1 5CD91A13
 P 11850 3800
-F 0 "U17" H 11850 4125 50  0000 C CNN
-F 1 "TLP3558" H 11850 4034 50  0000 C CNN
+F 0 "U17" H 11850 4125 50  0001 C CNN
+F 1 "TLP3558" H 11850 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 11850 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 11850 3800 50  0001 C CNN
 	1    11850 3800
@@ -106,8 +106,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U18
 U 1 1 5CD91A1D
 P 12200 3800
-F 0 "U18" H 12200 4125 50  0000 C CNN
-F 1 "TLP3558" H 12200 4034 50  0000 C CNN
+F 0 "U18" H 12200 4125 50  0001 C CNN
+F 1 "TLP3558" H 12200 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 12200 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 12200 3800 50  0001 C CNN
 	1    12200 3800
@@ -117,8 +117,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U19
 U 1 1 5CD91A27
 P 12550 3800
-F 0 "U19" H 12550 4125 50  0000 C CNN
-F 1 "TLP3558" H 12550 4034 50  0000 C CNN
+F 0 "U19" H 12550 4125 50  0001 C CNN
+F 1 "TLP3558" H 12550 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 12550 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 12550 3800 50  0001 C CNN
 	1    12550 3800
@@ -128,8 +128,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U20
 U 1 1 5D2A594A
 P 12900 3800
-F 0 "U20" H 12900 4125 50  0000 C CNN
-F 1 "TLP3558" H 12900 4034 50  0000 C CNN
+F 0 "U20" H 12900 4125 50  0001 C CNN
+F 1 "TLP3558" H 12900 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 12900 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 12900 3800 50  0001 C CNN
 	1    12900 3800
@@ -150,8 +150,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U9
 U 1 1 5CF08C9D
 P 9000 3800
-F 0 "U9" H 9000 4125 50  0000 C CNN
-F 1 "TLP3558" H 9000 4034 50  0000 C CNN
+F 0 "U9" H 9000 4125 50  0001 C CNN
+F 1 "TLP3558" H 9000 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 9000 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 9000 3800 50  0001 C CNN
 	1    9000 3800
@@ -161,8 +161,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U10
 U 1 1 5CD1F434
 P 9350 3800
-F 0 "U10" H 9350 4125 50  0000 C CNN
-F 1 "TLP3558" H 9350 4034 50  0000 C CNN
+F 0 "U10" H 9350 4125 50  0001 C CNN
+F 1 "TLP3558" H 9350 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 9350 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 9350 3800 50  0001 C CNN
 	1    9350 3800
@@ -172,8 +172,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U7
 U 1 1 5CD1E31D
 P 8300 3800
-F 0 "U7" H 8300 4125 50  0000 C CNN
-F 1 "TLP3558" H 8300 4034 50  0000 C CNN
+F 0 "U7" H 8300 4125 50  0001 C CNN
+F 1 "TLP3558" H 8300 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 8300 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 8300 3800 50  0001 C CNN
 	1    8300 3800
@@ -183,8 +183,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U8
 U 1 1 5CD1D556
 P 8650 3800
-F 0 "U8" H 8650 4125 50  0000 C CNN
-F 1 "TLP3558" H 8650 4034 50  0000 C CNN
+F 0 "U8" H 8650 4125 50  0001 C CNN
+F 1 "TLP3558" H 8650 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 8650 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 8650 3800 50  0001 C CNN
 	1    8650 3800
@@ -194,8 +194,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U5
 U 1 1 5CD1C426
 P 7600 3800
-F 0 "U5" H 7600 4125 50  0000 C CNN
-F 1 "TLP3558" H 7600 4034 50  0000 C CNN
+F 0 "U5" H 7600 4125 50  0001 C CNN
+F 1 "TLP3558" H 7600 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 7600 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 7600 3800 50  0001 C CNN
 	1    7600 3800
@@ -205,8 +205,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U6
 U 1 1 5CD1B8B7
 P 7950 3800
-F 0 "U6" H 7950 4125 50  0000 C CNN
-F 1 "TLP3558" H 7950 4034 50  0000 C CNN
+F 0 "U6" H 7950 4125 50  0001 C CNN
+F 1 "TLP3558" H 7950 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 7950 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 7950 3800 50  0001 C CNN
 	1    7950 3800
@@ -216,8 +216,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U3
 U 1 1 5CD1B2F0
 P 6900 3800
-F 0 "U3" H 6900 4125 50  0000 C CNN
-F 1 "TLP3558" H 6900 4034 50  0000 C CNN
+F 0 "U3" H 6900 4125 50  0001 C CNN
+F 1 "TLP3558" H 6900 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 6900 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 6900 3800 50  0001 C CNN
 	1    6900 3800
@@ -227,8 +227,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U4
 U 1 1 5CD1A77C
 P 7250 3800
-F 0 "U4" H 7250 4125 50  0000 C CNN
-F 1 "TLP3558" H 7250 4034 50  0000 C CNN
+F 0 "U4" H 7250 4125 50  0001 C CNN
+F 1 "TLP3558" H 7250 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 7250 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 7250 3800 50  0001 C CNN
 	1    7250 3800
@@ -249,8 +249,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U26
 U 1 1 5D682CBB
 P 6200 5550
-F 0 "U26" H 6200 5875 50  0000 C CNN
-F 1 "TLP3558" H 6200 5784 50  0000 C CNN
+F 0 "U26" H 6200 5875 50  0001 C CNN
+F 1 "TLP3558" H 6200 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 6200 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 6200 5550 50  0001 C CNN
 	1    6200 5550
@@ -260,8 +260,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U36
 U 1 1 5D682CC1
 P 9750 5550
-F 0 "U36" H 9750 5875 50  0000 C CNN
-F 1 "TLP3558" H 9750 5784 50  0000 C CNN
+F 0 "U36" H 9750 5875 50  0001 C CNN
+F 1 "TLP3558" H 9750 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 9750 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 9750 5550 50  0001 C CNN
 	1    9750 5550
@@ -271,8 +271,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U37
 U 1 1 5D682CC7
 P 10100 5550
-F 0 "U37" H 10100 5875 50  0000 C CNN
-F 1 "TLP3558" H 10100 5784 50  0000 C CNN
+F 0 "U37" H 10100 5875 50  0001 C CNN
+F 1 "TLP3558" H 10100 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 10100 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 10100 5550 50  0001 C CNN
 	1    10100 5550
@@ -282,8 +282,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U38
 U 1 1 5D682CCD
 P 10450 5550
-F 0 "U38" H 10450 5875 50  0000 C CNN
-F 1 "TLP3558" H 10450 5784 50  0000 C CNN
+F 0 "U38" H 10450 5875 50  0001 C CNN
+F 1 "TLP3558" H 10450 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 10450 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 10450 5550 50  0001 C CNN
 	1    10450 5550
@@ -293,8 +293,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U39
 U 1 1 5D682CD3
 P 10800 5550
-F 0 "U39" H 10800 5875 50  0000 C CNN
-F 1 "TLP3558" H 10800 5784 50  0000 C CNN
+F 0 "U39" H 10800 5875 50  0001 C CNN
+F 1 "TLP3558" H 10800 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 10800 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 10800 5550 50  0001 C CNN
 	1    10800 5550
@@ -304,8 +304,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U40
 U 1 1 5D682CD9
 P 11150 5550
-F 0 "U40" H 11150 5875 50  0000 C CNN
-F 1 "TLP3558" H 11150 5784 50  0000 C CNN
+F 0 "U40" H 11150 5875 50  0001 C CNN
+F 1 "TLP3558" H 11150 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 11150 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 11150 5550 50  0001 C CNN
 	1    11150 5550
@@ -315,8 +315,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U41
 U 1 1 5D682CDF
 P 11500 5550
-F 0 "U41" H 11500 5875 50  0000 C CNN
-F 1 "TLP3558" H 11500 5784 50  0000 C CNN
+F 0 "U41" H 11500 5875 50  0001 C CNN
+F 1 "TLP3558" H 11500 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 11500 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 11500 5550 50  0001 C CNN
 	1    11500 5550
@@ -326,8 +326,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U42
 U 1 1 5D682CE5
 P 11850 5550
-F 0 "U42" H 11850 5875 50  0000 C CNN
-F 1 "TLP3558" H 11850 5784 50  0000 C CNN
+F 0 "U42" H 11850 5875 50  0001 C CNN
+F 1 "TLP3558" H 11850 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 11850 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 11850 5550 50  0001 C CNN
 	1    11850 5550
@@ -337,8 +337,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U43
 U 1 1 5D682CEB
 P 12200 5550
-F 0 "U43" H 12200 5875 50  0000 C CNN
-F 1 "TLP3558" H 12200 5784 50  0000 C CNN
+F 0 "U43" H 12200 5875 50  0001 C CNN
+F 1 "TLP3558" H 12200 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 12200 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 12200 5550 50  0001 C CNN
 	1    12200 5550
@@ -348,8 +348,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U44
 U 1 1 5D682CF1
 P 12550 5550
-F 0 "U44" H 12550 5875 50  0000 C CNN
-F 1 "TLP3558" H 12550 5784 50  0000 C CNN
+F 0 "U44" H 12550 5875 50  0001 C CNN
+F 1 "TLP3558" H 12550 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 12550 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 12550 5550 50  0001 C CNN
 	1    12550 5550
@@ -367,8 +367,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U45
 U 1 1 5D682D0A
 P 12900 5550
-F 0 "U45" H 12900 5875 50  0000 C CNN
-F 1 "TLP3558" H 12900 5784 50  0000 C CNN
+F 0 "U45" H 12900 5875 50  0001 C CNN
+F 1 "TLP3558" H 12900 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 12900 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 12900 5550 50  0001 C CNN
 	1    12900 5550
@@ -500,8 +500,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U35
 U 1 1 5D682D65
 P 9350 5550
-F 0 "U35" H 9350 5875 50  0000 C CNN
-F 1 "TLP3558" H 9350 5784 50  0000 C CNN
+F 0 "U35" H 9350 5875 50  0001 C CNN
+F 1 "TLP3558" H 9350 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 9350 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 9350 5550 50  0001 C CNN
 	1    9350 5550
@@ -511,8 +511,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U34
 U 1 1 5D682D6B
 P 9000 5550
-F 0 "U34" H 9000 5875 50  0000 C CNN
-F 1 "TLP3558" H 9000 5784 50  0000 C CNN
+F 0 "U34" H 9000 5875 50  0001 C CNN
+F 1 "TLP3558" H 9000 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 9000 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 9000 5550 50  0001 C CNN
 	1    9000 5550
@@ -522,8 +522,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U33
 U 1 1 5D682D71
 P 8650 5550
-F 0 "U33" H 8650 5875 50  0000 C CNN
-F 1 "TLP3558" H 8650 5784 50  0000 C CNN
+F 0 "U33" H 8650 5875 50  0001 C CNN
+F 1 "TLP3558" H 8650 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 8650 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 8650 5550 50  0001 C CNN
 	1    8650 5550
@@ -533,8 +533,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U32
 U 1 1 5D682D77
 P 8300 5550
-F 0 "U32" H 8300 5875 50  0000 C CNN
-F 1 "TLP3558" H 8300 5784 50  0000 C CNN
+F 0 "U32" H 8300 5875 50  0001 C CNN
+F 1 "TLP3558" H 8300 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 8300 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 8300 5550 50  0001 C CNN
 	1    8300 5550
@@ -544,8 +544,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U31
 U 1 1 5D682D7D
 P 7950 5550
-F 0 "U31" H 7950 5875 50  0000 C CNN
-F 1 "TLP3558" H 7950 5784 50  0000 C CNN
+F 0 "U31" H 7950 5875 50  0001 C CNN
+F 1 "TLP3558" H 7950 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 7950 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 7950 5550 50  0001 C CNN
 	1    7950 5550
@@ -555,8 +555,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U30
 U 1 1 5D682D83
 P 7600 5550
-F 0 "U30" H 7600 5875 50  0000 C CNN
-F 1 "TLP3558" H 7600 5784 50  0000 C CNN
+F 0 "U30" H 7600 5875 50  0001 C CNN
+F 1 "TLP3558" H 7600 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 7600 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 7600 5550 50  0001 C CNN
 	1    7600 5550
@@ -566,8 +566,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U29
 U 1 1 5D682D89
 P 7250 5550
-F 0 "U29" H 7250 5875 50  0000 C CNN
-F 1 "TLP3558" H 7250 5784 50  0000 C CNN
+F 0 "U29" H 7250 5875 50  0001 C CNN
+F 1 "TLP3558" H 7250 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 7250 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 7250 5550 50  0001 C CNN
 	1    7250 5550
@@ -577,8 +577,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U28
 U 1 1 5D682D8F
 P 6900 5550
-F 0 "U28" H 6900 5875 50  0000 C CNN
-F 1 "TLP3558" H 6900 5784 50  0000 C CNN
+F 0 "U28" H 6900 5875 50  0001 C CNN
+F 1 "TLP3558" H 6900 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 6900 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 6900 5550 50  0001 C CNN
 	1    6900 5550
@@ -588,8 +588,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U27
 U 1 1 5D682D95
 P 6550 5550
-F 0 "U27" H 6550 5875 50  0000 C CNN
-F 1 "TLP3558" H 6550 5784 50  0000 C CNN
+F 0 "U27" H 6550 5875 50  0001 C CNN
+F 1 "TLP3558" H 6550 5784 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 6550 5250 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 6550 5550 50  0001 C CNN
 	1    6550 5550
@@ -635,8 +635,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U23
 U 1 1 5DCF3BF0
 P 13600 5350
-F 0 "U23" H 13600 5675 50  0000 C CNN
-F 1 "TLP3558" H 13600 5584 50  0000 C CNN
+F 0 "U23" H 13600 5675 50  0001 C CNN
+F 1 "TLP3558" H 13600 5584 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 13600 5050 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 13600 5350 50  0001 C CNN
 	1    13600 5350
@@ -646,8 +646,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U24
 U 1 1 5DCF3BFA
 P 13950 5350
-F 0 "U24" H 13950 5675 50  0000 C CNN
-F 1 "TLP3558" H 13950 5584 50  0000 C CNN
+F 0 "U24" H 13950 5675 50  0001 C CNN
+F 1 "TLP3558" H 13950 5584 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 13950 5050 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 13950 5350 50  0001 C CNN
 	1    13950 5350
@@ -666,9 +666,9 @@ F 3 "" H 14250 5050 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	13700 5050 13850 5050
-Text Label 13700 3250 0    50   ~ 0
+Text Label 13250 3300 0    50   ~ 0
 INPUT_LO
-Text Label 14400 3450 2    50   ~ 0
+Text Label 13900 3400 2    50   ~ 0
 INPUT_HI
 Wire Wire Line
 	6300 4100 6450 4100
@@ -676,23 +676,12 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U1
 U 1 1 5CD19EF0
 P 6200 3800
-F 0 "U1" H 6200 4125 50  0000 C CNN
-F 1 "TLP3558" H 6200 4034 50  0000 C CNN
+F 0 "U1" H 6200 4125 50  0001 C CNN
+F 1 "TLP3558" H 6200 4034 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 6200 3500 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 6200 3800 50  0001 C CNN
 	1    6200 3800
 	0    1    -1   0   
-$EndComp
-$Comp
-L Connector:Screw_Terminal_01x12 J2
-U 1 1 5CCE7658
-P 12600 2500
-F 0 "J2" H 12680 2492 50  0000 L CNN
-F 1 "Screw_Terminal_01x12" H 12680 2401 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-12-5.08_1x12_P5.08mm_Horizontal" H 12600 2500 50  0001 C CNN
-F 3 "~" H 12600 2500 50  0001 C CNN
-	1    12600 2500
-	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	6100 3300 6100 3500
@@ -997,8 +986,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U22
 U 1 1 5DB9136F
 P 13950 4450
-F 0 "U22" H 13950 4775 50  0000 C CNN
-F 1 "TLP3558" H 13950 4684 50  0000 C CNN
+F 0 "U22" H 13950 4775 50  0001 C CNN
+F 1 "TLP3558" H 13950 4684 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 13950 4150 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 13950 4450 50  0001 C CNN
 	1    13950 4450
@@ -1057,7 +1046,7 @@ Wire Wire Line
 	11950 6350 12700 6350
 Text Label 13100 6550 0    50   ~ 0
 SENSE_LO
-Text Label 14050 6650 2    50   ~ 0
+Text Label 13800 6650 2    50   ~ 0
 SENSE_HI
 Wire Wire Line
 	13100 6550 13100 6700
@@ -1097,8 +1086,8 @@ $Comp
 L Connector:Screw_Terminal_01x12 J5
 U 1 1 5CCE8A6A
 P 12600 6900
-F 0 "J5" H 12680 6892 50  0000 L CNN
-F 1 "Screw_Terminal_01x12" H 12680 6801 50  0000 L CNN
+F 0 "J5" V 12700 6850 50  0000 L CNN
+F 1 "Screw_Terminal_01x12" V 12800 6500 50  0000 L CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-12-5.08_1x12_P5.08mm_Horizontal" H 12600 6900 50  0001 C CNN
 F 3 "~" H 12600 6900 50  0001 C CNN
 	1    12600 6900
@@ -1274,8 +1263,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:TLP3558-CozKiCadLibrary U21
 U 1 1 5DB91365
 P 13600 4450
-F 0 "U21" H 13600 4775 50  0000 C CNN
-F 1 "TLP3558" H 13600 4684 50  0000 C CNN
+F 0 "U21" H 13600 4775 50  0001 C CNN
+F 1 "TLP3558" H 13600 4684 50  0001 C CNN
 F 2 "cozKiCadLibrary:DIP-4_W7.62mm_LongPads_coz" H 13600 4150 50  0001 C CNN
 F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=60325&prodName=TLP3558A" H 13600 4450 50  0001 C CNN
 	1    13600 4450
@@ -1423,19 +1412,6 @@ Text GLabel 11750 5250 1    50   Input ~ 0
 CH19
 Text GLabel 12450 5250 1    50   Input ~ 0
 CH20
-$Comp
-L Device:R R18
-U 1 1 5F61E574
-P 3050 6450
-F 0 "R18" V 2843 6450 50  0000 C CNN
-F 1 "R" V 2934 6450 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6450 50  0001 C CNN
-F 3 "~" H 3050 6450 50  0001 C CNN
-	1    3050 6450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3200 6950 2600 6950
 Wire Wire Line
 	4550 6750 5250 6750
 $Comp
@@ -1459,8 +1435,8 @@ $Comp
 L Keithley_20ChanSSR-rescue:Arduino_Micro-CozKiCadLibrary U25
 U 1 1 5D44B2E9
 P 3200 7150
-F 0 "U25" V 3928 6972 60  0000 R CNN
-F 1 "Arduino_Micro" V 3822 6972 60  0000 R CNN
+F 0 "U25" H 4000 6950 60  0000 R CNN
+F 1 "Arduino_Micro" H 4200 6850 60  0000 R CNN
 F 2 "cozKiCadLibrary:Arduino_Micro_Socket_coz" V 4400 7400 60  0001 C CNN
 F 3 "" V 4400 7400 60  0000 C CNN
 	1    3200 7150
@@ -1481,8 +1457,8 @@ $Comp
 L Device:R R15
 U 1 1 5E9EE57C
 P 4700 7250
-F 0 "R15" V 4907 7250 50  0000 C CNN
-F 1 "R" V 4816 7250 50  0000 C CNN
+F 0 "R15" V 4907 7250 50  0001 C CNN
+F 1 "120R" V 4700 7250 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 7250 50  0001 C CNN
 F 3 "~" H 4700 7250 50  0001 C CNN
 	1    4700 7250
@@ -1492,8 +1468,8 @@ $Comp
 L Device:R R14
 U 1 1 5E9EE217
 P 4700 7150
-F 0 "R14" V 4907 7150 50  0000 C CNN
-F 1 "R" V 4816 7150 50  0000 C CNN
+F 0 "R14" V 4907 7150 50  0001 C CNN
+F 1 "120R" V 4700 7150 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 7150 50  0001 C CNN
 F 3 "~" H 4700 7150 50  0001 C CNN
 	1    4700 7150
@@ -1503,8 +1479,8 @@ $Comp
 L Device:R R13
 U 1 1 5E9EDF47
 P 4700 7050
-F 0 "R13" V 4907 7050 50  0000 C CNN
-F 1 "R" V 4816 7050 50  0000 C CNN
+F 0 "R13" V 4907 7050 50  0001 C CNN
+F 1 "120R" V 4700 7050 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 7050 50  0001 C CNN
 F 3 "~" H 4700 7050 50  0001 C CNN
 	1    4700 7050
@@ -1514,8 +1490,8 @@ $Comp
 L Device:R R12
 U 1 1 5E9EDB2A
 P 4700 6950
-F 0 "R12" V 4907 6950 50  0000 C CNN
-F 1 "R" V 4816 6950 50  0000 C CNN
+F 0 "R12" V 4907 6950 50  0001 C CNN
+F 1 "120R" V 4700 6950 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 6950 50  0001 C CNN
 F 3 "~" H 4700 6950 50  0001 C CNN
 	1    4700 6950
@@ -1525,8 +1501,8 @@ $Comp
 L Device:R R11
 U 1 1 5E9ED89F
 P 4700 6650
-F 0 "R11" V 4907 6650 50  0000 C CNN
-F 1 "R" V 4816 6650 50  0000 C CNN
+F 0 "R11" V 4907 6650 50  0001 C CNN
+F 1 "120R" V 4700 6650 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 6650 50  0001 C CNN
 F 3 "~" H 4700 6650 50  0001 C CNN
 	1    4700 6650
@@ -1536,8 +1512,8 @@ $Comp
 L Device:R R1
 U 1 1 5E9ED3B2
 P 4700 5650
-F 0 "R1" V 4907 5650 50  0000 C CNN
-F 1 "R" V 4816 5650 50  0000 C CNN
+F 0 "R1" V 4907 5650 50  0001 C CNN
+F 1 "120R" V 4700 5650 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 5650 50  0001 C CNN
 F 3 "~" H 4700 5650 50  0001 C CNN
 	1    4700 5650
@@ -1547,8 +1523,8 @@ $Comp
 L Device:R R2
 U 1 1 5E9ED013
 P 4700 5750
-F 0 "R2" V 4907 5750 50  0000 C CNN
-F 1 "R" V 4816 5750 50  0000 C CNN
+F 0 "R2" V 4907 5750 50  0001 C CNN
+F 1 "120R" V 4700 5750 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 5750 50  0001 C CNN
 F 3 "~" H 4700 5750 50  0001 C CNN
 	1    4700 5750
@@ -1558,8 +1534,8 @@ $Comp
 L Device:R R3
 U 1 1 5E9ECA4C
 P 4700 5850
-F 0 "R3" V 4907 5850 50  0000 C CNN
-F 1 "R" V 4816 5850 50  0000 C CNN
+F 0 "R3" V 4907 5850 50  0001 C CNN
+F 1 "120R" V 4700 5850 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 5850 50  0001 C CNN
 F 3 "~" H 4700 5850 50  0001 C CNN
 	1    4700 5850
@@ -1569,8 +1545,8 @@ $Comp
 L Device:R R4
 U 1 1 5E9EC475
 P 4700 5950
-F 0 "R4" V 4907 5950 50  0000 C CNN
-F 1 "R" V 4816 5950 50  0000 C CNN
+F 0 "R4" V 4907 5950 50  0001 C CNN
+F 1 "120R" V 4700 5950 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 5950 50  0001 C CNN
 F 3 "~" H 4700 5950 50  0001 C CNN
 	1    4700 5950
@@ -1580,8 +1556,8 @@ $Comp
 L Device:R R5
 U 1 1 5E9EC143
 P 4700 6050
-F 0 "R5" V 4907 6050 50  0000 C CNN
-F 1 "R" V 4816 6050 50  0000 C CNN
+F 0 "R5" V 4907 6050 50  0001 C CNN
+F 1 "120R" V 4700 6050 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 6050 50  0001 C CNN
 F 3 "~" H 4700 6050 50  0001 C CNN
 	1    4700 6050
@@ -1591,8 +1567,8 @@ $Comp
 L Device:R R6
 U 1 1 5E9EBD08
 P 4700 6150
-F 0 "R6" V 4907 6150 50  0000 C CNN
-F 1 "R" V 4816 6150 50  0000 C CNN
+F 0 "R6" V 4907 6150 50  0001 C CNN
+F 1 "120R" V 4700 6150 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 6150 50  0001 C CNN
 F 3 "~" H 4700 6150 50  0001 C CNN
 	1    4700 6150
@@ -1602,8 +1578,8 @@ $Comp
 L Device:R R7
 U 1 1 5E9EB8C1
 P 4700 6250
-F 0 "R7" V 4907 6250 50  0000 C CNN
-F 1 "R" V 4816 6250 50  0000 C CNN
+F 0 "R7" V 4907 6250 50  0001 C CNN
+F 1 "120R" V 4700 6250 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 6250 50  0001 C CNN
 F 3 "~" H 4700 6250 50  0001 C CNN
 	1    4700 6250
@@ -1613,8 +1589,8 @@ $Comp
 L Device:R R8
 U 1 1 5E9EB49F
 P 4700 6350
-F 0 "R8" V 4907 6350 50  0000 C CNN
-F 1 "R" V 4816 6350 50  0000 C CNN
+F 0 "R8" V 4907 6350 50  0001 C CNN
+F 1 "120R" V 4700 6350 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 6350 50  0001 C CNN
 F 3 "~" H 4700 6350 50  0001 C CNN
 	1    4700 6350
@@ -1624,8 +1600,8 @@ $Comp
 L Device:R R9
 U 1 1 5E9EB0A6
 P 4700 6450
-F 0 "R9" V 4907 6450 50  0000 C CNN
-F 1 "R" V 4816 6450 50  0000 C CNN
+F 0 "R9" V 4907 6450 50  0001 C CNN
+F 1 "120R" V 4700 6450 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 6450 50  0001 C CNN
 F 3 "~" H 4700 6450 50  0001 C CNN
 	1    4700 6450
@@ -1635,56 +1611,12 @@ $Comp
 L Device:R R10
 U 1 1 5E9EAA5E
 P 4700 6550
-F 0 "R10" V 4907 6550 50  0000 C CNN
-F 1 "R" V 4816 6550 50  0000 C CNN
+F 0 "R10" V 4907 6550 50  0001 C CNN
+F 1 "120R" V 4700 6550 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4630 6550 50  0001 C CNN
 F 3 "~" H 4700 6550 50  0001 C CNN
 	1    4700 6550
 	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R20
-U 1 1 5E9E6740
-P 3050 6250
-F 0 "R20" V 2843 6250 50  0000 C CNN
-F 1 "R" V 2934 6250 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6250 50  0001 C CNN
-F 3 "~" H 3050 6250 50  0001 C CNN
-	1    3050 6250
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R19
-U 1 1 5E9E5FB9
-P 3050 6350
-F 0 "R19" V 2843 6350 50  0000 C CNN
-F 1 "R" V 2934 6350 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6350 50  0001 C CNN
-F 3 "~" H 3050 6350 50  0001 C CNN
-	1    3050 6350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R17
-U 1 1 5E9E5940
-P 3050 7150
-F 0 "R17" V 2843 7150 50  0000 C CNN
-F 1 "R" V 2934 7150 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 7150 50  0001 C CNN
-F 3 "~" H 3050 7150 50  0001 C CNN
-	1    3050 7150
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R16
-U 1 1 5E9E36B2
-P 3050 7250
-F 0 "R16" V 2843 7250 50  0000 C CNN
-F 1 "R" V 2934 7250 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 7250 50  0001 C CNN
-F 3 "~" H 3050 7250 50  0001 C CNN
-	1    3050 7250
-	0    -1   -1   0   
 $EndComp
 Text GLabel 2900 6450 0    50   Input ~ 0
 CH13
@@ -1742,32 +1674,8 @@ Text GLabel 2900 5650 0    50   Input ~ 0
 BUSB_2_SENSE
 Text GLabel 2900 6650 0    50   Input ~ 0
 BUSB_2_INPUT
-$Comp
-L Device:R R21
-U 1 1 5D0A991B
-P 3050 5650
-F 0 "R21" V 2843 5650 50  0000 C CNN
-F 1 "R" V 2934 5650 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 5650 50  0001 C CNN
-F 3 "~" H 3050 5650 50  0001 C CNN
-	1    3050 5650
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R22
-U 1 1 5D1008CC
-P 3050 6650
-F 0 "R22" V 2843 6650 50  0000 C CNN
-F 1 "R" V 2934 6650 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6650 50  0001 C CNN
-F 3 "~" H 3050 6650 50  0001 C CNN
-	1    3050 6650
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	2150 6750 2150 6600
-Wire Wire Line
-	3200 6750 2150 6750
 $Comp
 L power:+5V #PWR015
 U 1 1 5E99D859
@@ -1790,7 +1698,6 @@ F 3 "~" H 2150 6900 50  0001 C CNN
 	1    2150 6900
 	1    0    0    -1  
 $EndComp
-Connection ~ 2150 6750
 $Comp
 L power:GND #PWR0103
 U 1 1 5D4F8923
@@ -1922,54 +1829,155 @@ Text GLabel 2200 3250 0    50   Input ~ 0
 RESET
 Wire Wire Line
 	2200 3250 3150 3250
-$Comp
-L Device:R R24
-U 1 1 5D3EFDFF
-P 3050 6850
-F 0 "R24" V 2843 6850 50  0000 C CNN
-F 1 "R" V 2934 6850 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6850 50  0001 C CNN
-F 3 "~" H 3050 6850 50  0001 C CNN
-	1    3050 6850
-	0    -1   -1   0   
-$EndComp
 Text GLabel 2900 6850 0    50   Input ~ 0
 RESET
-$Comp
-L Device:R R23
-U 1 1 5CDBE816
-P 3050 6150
-F 0 "R23" V 2843 6150 50  0000 C CNN
-F 1 "R" V 2934 6150 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6150 50  0001 C CNN
-F 3 "~" H 3050 6150 50  0001 C CNN
-	1    3050 6150
-	0    1    -1   0   
-$EndComp
 Text GLabel 4600 3050 2    50   Input ~ 0
 STROBE
+Wire Wire Line
+	3650 3050 4600 3050
+Connection ~ 2150 6750
+$Comp
+L Device:R R21
+U 1 1 5D0A991B
+P 3050 5650
+F 0 "R21" V 2843 5650 50  0001 C CNN
+F 1 "120R" V 3050 5650 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 5650 50  0001 C CNN
+F 3 "~" H 3050 5650 50  0001 C CNN
+	1    3050 5650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R25
+U 1 1 5CE08A80
+P 3050 5950
+F 0 "R25" V 2843 5950 50  0001 C CNN
+F 1 "1K" V 3050 5950 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 5950 50  0001 C CNN
+F 3 "~" H 3050 5950 50  0001 C CNN
+	1    3050 5950
+	0    1    -1   0   
+$EndComp
 $Comp
 L Device:R R26
 U 1 1 5CE087E6
 P 3050 6050
-F 0 "R26" V 2843 6050 50  0000 C CNN
-F 1 "R" V 2934 6050 50  0000 C CNN
+F 0 "R26" V 2843 6050 50  0001 C CNN
+F 1 "1K" V 3050 6050 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6050 50  0001 C CNN
 F 3 "~" H 3050 6050 50  0001 C CNN
 	1    3050 6050
 	0    1    -1   0   
 $EndComp
 $Comp
-L Device:R R25
-U 1 1 5CE08A80
-P 3050 5950
-F 0 "R25" V 2843 5950 50  0000 C CNN
-F 1 "R" V 2934 5950 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 5950 50  0001 C CNN
-F 3 "~" H 3050 5950 50  0001 C CNN
-	1    3050 5950
+L Device:R R23
+U 1 1 5CDBE816
+P 3050 6150
+F 0 "R23" V 2843 6150 50  0001 C CNN
+F 1 "1K" V 3050 6150 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6150 50  0001 C CNN
+F 3 "~" H 3050 6150 50  0001 C CNN
+	1    3050 6150
 	0    1    -1   0   
 $EndComp
+$Comp
+L Device:R R24
+U 1 1 5D3EFDFF
+P 3050 6850
+F 0 "R24" V 2843 6850 50  0001 C CNN
+F 1 "120R" V 3050 6850 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6850 50  0001 C CNN
+F 3 "~" H 3050 6850 50  0001 C CNN
+	1    3050 6850
+	0    -1   -1   0   
+$EndComp
 Wire Wire Line
-	3650 3050 4600 3050
+	3200 6750 2150 6750
+$Comp
+L Device:R R22
+U 1 1 5D1008CC
+P 3050 6650
+F 0 "R22" V 2843 6650 50  0001 C CNN
+F 1 "120R" V 3050 6650 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6650 50  0001 C CNN
+F 3 "~" H 3050 6650 50  0001 C CNN
+	1    3050 6650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 5E9E36B2
+P 3050 7250
+F 0 "R16" V 2843 7250 50  0001 C CNN
+F 1 "120R" V 3050 7250 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 7250 50  0001 C CNN
+F 3 "~" H 3050 7250 50  0001 C CNN
+	1    3050 7250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 5E9E5940
+P 3050 7150
+F 0 "R17" V 2843 7150 50  0001 C CNN
+F 1 "120R" V 3050 7150 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 7150 50  0001 C CNN
+F 3 "~" H 3050 7150 50  0001 C CNN
+	1    3050 7150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R19
+U 1 1 5E9E5FB9
+P 3050 6350
+F 0 "R19" V 2843 6350 50  0001 C CNN
+F 1 "120R" V 3050 6350 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6350 50  0001 C CNN
+F 3 "~" H 3050 6350 50  0001 C CNN
+	1    3050 6350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3200 6950 2600 6950
+$Comp
+L Device:R R18
+U 1 1 5F61E574
+P 3050 6450
+F 0 "R18" V 2843 6450 50  0001 C CNN
+F 1 "120R" V 3050 6450 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6450 50  0001 C CNN
+F 3 "~" H 3050 6450 50  0001 C CNN
+	1    3050 6450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R20
+U 1 1 5E9E6740
+P 3050 6250
+F 0 "R20" V 3257 6250 50  0001 C CNN
+F 1 "120R" V 3050 6250 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2980 6250 50  0001 C CNN
+F 3 "~" H 3050 6250 50  0001 C CNN
+	1    3050 6250
+	0    -1   -1   0   
+$EndComp
+Text Notes 5600 3850 0    50   ~ 0
+20x \nTLP3558A
+Text Notes 5600 5600 0    50   ~ 0
+20x \nTLP3558A
+Text Notes 14500 4500 0    50   ~ 0
+2x \nTLP3558A
+Text Notes 14500 5450 0    50   ~ 0
+2x \nTLP3558A
+$Comp
+L Connector:Screw_Terminal_01x12 J2
+U 1 1 5CCE7658
+P 12600 2500
+F 0 "J2" V 12700 2450 50  0000 L CNN
+F 1 "Screw_Terminal_01x12" V 12800 2050 50  0000 L CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-12-5.08_1x12_P5.08mm_Horizontal" H 12600 2500 50  0001 C CNN
+F 3 "~" H 12600 2500 50  0001 C CNN
+	1    12600 2500
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
